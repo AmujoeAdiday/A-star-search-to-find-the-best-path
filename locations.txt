@@ -1,0 +1,11 @@
+Pinto Thai Evanston, 42.06621907555804, -87.70067334585946, Bonsai Cafe, Siam Splendour, Lulu's
+NaKorn Urban Thai, 42.04858711076736, -87.68109431618382, Siam Splendour, Cozy Noodles & Rice, Joy Yee Noodle, Shinsen
+Cozy Noodles & Rice, 42.05003400319304, -87.68641581858095, Lulu's, NaKorn Urban Thai, Yasotorn Thai Cuisine, Shinsen
+Siam Paragon, 42.036214855237894, -87.67809098886896, Dozika Restaurant, Joy Yee Noodle
+Siam Splendour, 42.054563848279685, -87.68706683435926, Pinto Thai Evanston, NaKorn Urban Thai, Lulu's, Cozy Noodles & Rice
+Yasotorn Thai Cuisine, 42.04356719369722, -87.68263926850808, Shinsen, Dozika Restaurant, Lulu's, Cozy Noodles & Rice
+Dozika Restaurant, 42.04136838289438, -87.68078873792098, Yasotorn Thai Cuisine, Shinsen, Siam Paragon
+Shinsen, 42.04361756978615, -87.68075099345626, Yasotorn Thai Cuisine, Dozika Restaurant, Joy Yee Noodle, Cozy Noodles & Rice, NaKorn Urban Thai
+Bonsai Cafe, 42.06469381250202, -87.71520233675783, Pinto Thai Evanston, Lulu's
+Joy Yee Noodle, 42.04842558291062, -87.67905333106935, Shinsen, NaKorn Urban Thai, Siam Paragon
+Lulu's, 42.049141714576486, -87.68641581858095, Siam Splendour, Cozy Noodles & Rice, Bonsai Cafe, Pinto Thai Evanston, Yasotorn Thai Cuisine
